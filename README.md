@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="./imgs/金融系统.png" alt="DeltaAI" />
+  <img src="./imgs/fqa.png" alt="DeltaAI" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
