@@ -26,7 +26,7 @@
   <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL"><img alt="Model License"
     src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=f5de53"/></a>
   <br>
-  <a href="https://arxiv.org/pdf/2412.19437"><b>Our Elian Paper Link</b>👁️</a>
+  <a href="http://deltaai.top/project/product3.html"><b>视频演示地址 我们的源码即将发布ing...</b>👁️</a>
 </div>
 
 # 智能金融系统V1版本
